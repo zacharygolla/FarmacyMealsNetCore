@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FarmacyMeals.WebApi.props" />
+</Project>

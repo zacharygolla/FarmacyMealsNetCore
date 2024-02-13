@@ -1,0 +1,4 @@
+C:\Users\zachary.golla\source\repos\FarmacyMeals.WebApi\obj\Debug\net8.0\FarmacyMeals.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachary.golla\source\repos\FarmacyMeals.WebApi\obj\Debug\net8.0\FarmacyMeals.WebApi.AssemblyInfoInputs.cache
+C:\Users\zachary.golla\source\repos\FarmacyMeals.WebApi\obj\Debug\net8.0\FarmacyMeals.WebApi.AssemblyInfo.cs
+C:\Users\zachary.golla\source\repos\FarmacyMeals.WebApi\obj\Debug\net8.0\FarmacyMeals.WebApi.csproj.CoreCompileInputs.cache

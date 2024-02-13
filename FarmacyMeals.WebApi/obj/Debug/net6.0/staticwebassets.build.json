@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1TMBrTr3ycFGEaUZHX1T/zDB6mwqSiQhvzglfjvkJss=",
+  "Source": "FarmacyMeals.WebApi",
+  "BasePath": "_content/FarmacyMeals.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

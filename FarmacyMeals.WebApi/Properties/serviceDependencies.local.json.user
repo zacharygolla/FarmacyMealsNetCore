@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "secrets.user": {
+      "restored": true,
+      "restoreTime": "2024-02-11T04:26:57.9537673Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-02-11T19:47:17.6023212Z"
+    },
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2024-02-11T04:40:33.1497016Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "b0b1d0f7-9a7c-438b-acbc-f9abbc98bbca"
+    },
+    "mssql1.resourceGroupLocation": {
+      "Name": "mssql1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "southcentralus"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "fm-db-group"
+    }
+  }
+}
